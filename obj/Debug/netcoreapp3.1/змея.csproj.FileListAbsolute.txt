@@ -1,0 +1,13 @@
+C:\Users\Админ\source\repos\змея\змея\bin\Debug\netcoreapp3.1\змея.exe
+C:\Users\Админ\source\repos\змея\змея\bin\Debug\netcoreapp3.1\змея.deps.json
+C:\Users\Админ\source\repos\змея\змея\bin\Debug\netcoreapp3.1\змея.runtimeconfig.json
+C:\Users\Админ\source\repos\змея\змея\bin\Debug\netcoreapp3.1\змея.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\змея\змея\bin\Debug\netcoreapp3.1\змея.dll
+C:\Users\Админ\source\repos\змея\змея\bin\Debug\netcoreapp3.1\змея.pdb
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.AssemblyInfo.cs
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.dll
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.pdb
+C:\Users\Админ\source\repos\змея\змея\obj\Debug\netcoreapp3.1\змея.genruntimeconfig.cache
